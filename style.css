@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    border: 1px rgb(225, 126, 126);
+    border-style: solid;
+    background-color: rgb(218, 122, 122);
+    padding: 20px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.nav1,.nav2,.nav3,.nav4{
+    text-decoration-line: none;
+    color: black;
+}
